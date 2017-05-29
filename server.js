@@ -1,7 +1,3 @@
-test 1
-
-hi..test
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
